@@ -11,4 +11,4 @@ Hi I'm Logan! I'm a software engineer, future dad, and veteran. I'm motivated to
 I believe that supportive environments where everyone feels respected and appreciated lead to amazing results. I manage my time well and work to maintain balance in all aspects of my life. If I or others have roadblocks or problems whether they be personal or professional I enourage respectful candor so we can solve those challenges together.
 
 ## Getting in Touch 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/loganpmatheny/))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/loganpmatheny/)
