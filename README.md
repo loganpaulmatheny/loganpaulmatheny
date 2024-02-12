@@ -1,5 +1,5 @@
 # Logan
-Hi I'm Logan! I'm a software engineer, future dad, and veteran. I'm motivated to make the world and my communities a better place through leveraging my unique talents of problem solving and effective leadership. I'm a naturally curious person that loves to find ways to make things simple, efficient, and effective. When I'm not working, I'm probably reading, running, or spending time with family.
+Hi I'm Logan! I'm a software engineer, new dad, and veteran. I'm motivated to make the world and my communities a better place through leveraging my unique talents of problem solving and effective leadership. I'm a naturally curious person that loves to find ways to make things simple, efficient, and effective. When I'm not working, I'm probably reading, running, or spending time with family.
 
 ## My values 
 ☀️ Staying positive  
