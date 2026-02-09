@@ -19,4 +19,4 @@ When I'm not working, I'm probably reading, running, or spending time with famil
 I believe that supportive environments where everyone feels respected and appreciated lead to amazing results. I manage my time well and work to maintain balance in all aspects of my life. If I or others have roadblocks or problems whether they be personal or professional I encourage respectful candor so we can solve those challenges together.
 
 ## Getting in Touch 
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/loganpmatheny/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/loganpmatheny/)
