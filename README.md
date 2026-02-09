@@ -1,4 +1,4 @@
-# Logan
+# A little about Logan Matheny
 Hi I'm Logan! I'm a former U.S. Army Officer turned software engineer. I'm currently a graduate student at Northeastern University and am passionate about building tools and solving real problems with software. As a new dad and veteran, I'm motivated to make the world and my communities a better place through leveraging my unique talents of problem solving and effective leadership. I'm a naturally curious person that loves to find ways to make things simple, efficient, and effective. 
 
 When I'm not working, I'm probably reading, running, or spending time with family.
