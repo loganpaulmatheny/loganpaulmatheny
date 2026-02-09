@@ -4,10 +4,10 @@ Hi I'm Logan! I'm a former U.S. Army Officer turned software engineer. I'm curre
 When I'm not working, I'm probably reading, running, or spending time with family.
 
 ## Tech Skills 
-**Languages:** JavaScript, Python, Swift
-**Frontend:** React, Redux, HTML/CSS, Tailwind, Bootstrap
-**Backend:** SQL-Relational DBs, Node.js, Express, MongoDB  
-**Tools:** Git, Linux, Vim, Firebase, Cypress
+- **Languages:** JavaScript, Python, Swift
+- **Frontend:** React, Redux, HTML/CSS, Tailwind, Bootstrap
+- **Backend:** SQL-Relational DBs, Node.js, Express, MongoDB  
+- **Tools:** Git, Linux, Vim, Firebase, Cypress
 
 ## My values 
 ☀️ Stay positive  
