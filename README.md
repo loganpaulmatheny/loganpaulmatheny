@@ -4,10 +4,10 @@ Hi I'm Logan! I'm a former U.S. Army Officer turned software engineer. I'm curre
 When I'm not working, I'm probably reading, running, or spending time with family.
 
 ## Tech Skills 
-- **Languages:** JavaScript, Python, Swift
+- **Languages:** JavaScript, Java, Python, Swift
 - **Frontend:** React, Redux, HTML/CSS, Tailwind, Bootstrap
 - **Backend:** SQL-Relational DBs, Node.js, Express, MongoDB  
-- **Tools:** Git, Linux, Vim, Firebase, Cypress
+- **Tools/Workflows:** Git, Linux, Vim, Firebase, Agile-Sprint Methodology, Deep Work
 
 ## My values 
 ☀️ Stay positive  
@@ -19,4 +19,4 @@ When I'm not working, I'm probably reading, running, or spending time with famil
 I believe that supportive environments where everyone feels respected and appreciated lead to amazing results. I manage my time well and work to maintain balance in all aspects of my life. If I or others have roadblocks or problems whether they be personal or professional I encourage respectful candor so we can solve those challenges together.
 
 ## Getting in Touch 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/loganpmatheny/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/loganpmatheny/)
